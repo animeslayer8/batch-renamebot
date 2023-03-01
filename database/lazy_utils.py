@@ -1,6 +1,6 @@
-    # Credit @LazyDeveloper.
+    # Credit @Katsuki_warlord.
     # Please Don't remove credit.
-        # Born to make history @LazyDeveloper !
+        # Born to make history @Katsuki_warlord !
 
     # Thank you LazyDeveloper for helping us in this Journey
 
